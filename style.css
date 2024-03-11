@@ -1,0 +1,23 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 150px;
+  border: 2px dashed black;
+}
+h1{
+  color:purple;
+  text-shadow: 2px 2px black;
+  text-align:center;
+}
+p{
+  text-align:center;
+}
+body{
+  background-image:linear-gradient(to right, #a8c6fe, #f9d3e0);
+   font-family: 'Fruktur';font-size: 22px;
+}
+hr{
+  border:dashed;
+}
